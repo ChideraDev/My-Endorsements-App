@@ -1,0 +1,17 @@
+{
+  "name": "y",
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
